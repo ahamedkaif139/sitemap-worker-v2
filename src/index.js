@@ -917,4 +917,4 @@ export default {
           return json(
             {
               error:
-                "All URLs must be public http(s) addresses (no
+                const msg = "All URLs must be public http(s) addresses (no private ones)";
